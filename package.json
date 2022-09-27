@@ -1,0 +1,25 @@
+{
+  "name": "ckeditor4-custom",
+  "version": "1.0.0",
+  "description": "ckeditor 4 custom build",
+  "main": "ckeditor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/usama78/ckeditor4-custom.git"
+  },
+  "keywords": [
+    "ckeditor",
+    "custom",
+    "builds",
+    "ckeditor4"
+  ],
+  "author": "Usama Javed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/usama78/ckeditor4-custom/issues"
+  },
+  "homepage": "https://github.com/usama78/ckeditor4-custom#readme"
+}
